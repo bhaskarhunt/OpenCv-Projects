@@ -8,3 +8,5 @@ image rotation file takes image as input either via cmd or add path inside the c
 
 Background Subtraction :
 Takes images as input from cmd or add path inside the code.
+
+![image](background_sub.png)
